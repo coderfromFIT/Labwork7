@@ -1,0 +1,7 @@
+C:\OOP Labs\7\Solution 2\Solution 2\bin\Debug\Solution 2.exe.config
+C:\OOP Labs\7\Solution 2\Solution 2\bin\Debug\Solution 2.exe
+C:\OOP Labs\7\Solution 2\Solution 2\bin\Debug\Solution 2.pdb
+C:\OOP Labs\7\Solution 2\Solution 2\obj\Debug\Solution 2.csproj.AssemblyReference.cache
+C:\OOP Labs\7\Solution 2\Solution 2\obj\Debug\Solution 2.csproj.CoreCompileInputs.cache
+C:\OOP Labs\7\Solution 2\Solution 2\obj\Debug\Solution 2.exe
+C:\OOP Labs\7\Solution 2\Solution 2\obj\Debug\Solution 2.pdb

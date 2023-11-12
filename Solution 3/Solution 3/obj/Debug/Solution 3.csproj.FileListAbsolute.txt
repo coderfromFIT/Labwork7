@@ -1,0 +1,7 @@
+C:\OOP Labs\7\Solution 3\Solution 3\bin\Debug\Solution 3.exe.config
+C:\OOP Labs\7\Solution 3\Solution 3\bin\Debug\Solution 3.exe
+C:\OOP Labs\7\Solution 3\Solution 3\bin\Debug\Solution 3.pdb
+C:\OOP Labs\7\Solution 3\Solution 3\obj\Debug\Solution 3.csproj.AssemblyReference.cache
+C:\OOP Labs\7\Solution 3\Solution 3\obj\Debug\Solution 3.csproj.CoreCompileInputs.cache
+C:\OOP Labs\7\Solution 3\Solution 3\obj\Debug\Solution 3.exe
+C:\OOP Labs\7\Solution 3\Solution 3\obj\Debug\Solution 3.pdb

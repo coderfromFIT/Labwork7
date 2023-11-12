@@ -1,0 +1,7 @@
+C:\OOP Labs\7\Solution 4\Solution 4\bin\Debug\Solution 4.exe.config
+C:\OOP Labs\7\Solution 4\Solution 4\bin\Debug\Solution 4.exe
+C:\OOP Labs\7\Solution 4\Solution 4\bin\Debug\Solution 4.pdb
+C:\OOP Labs\7\Solution 4\Solution 4\obj\Debug\Solution 4.csproj.AssemblyReference.cache
+C:\OOP Labs\7\Solution 4\Solution 4\obj\Debug\Solution 4.csproj.CoreCompileInputs.cache
+C:\OOP Labs\7\Solution 4\Solution 4\obj\Debug\Solution 4.exe
+C:\OOP Labs\7\Solution 4\Solution 4\obj\Debug\Solution 4.pdb
